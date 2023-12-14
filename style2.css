@@ -7,17 +7,10 @@ body {
     min-height: 100vh;
 }
 
-.mi-borde {
-    border: #ccc solid 1px;
-    border-radius: 6px;
-    background-color: #fff;
-    padding: 30px;
-}
 
 .navbar-text {
     color: #fff;
 }
-
 
 .cursor-default {
     cursor: default;
